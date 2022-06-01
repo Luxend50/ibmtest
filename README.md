@@ -19,12 +19,12 @@ limitations under the License.
 # Elyra Component Library - The Component Library for AI, Machine Learning, ETL, and Data Science
 
 **TL;DR**
-- set of re-usable coarse-grained components (just a bunch of code)
-- think of tasks, not functions (e.g. read from database, transform data, train model, deploy model, ...)
-- write once, runs everywhere (export to Kubeflow, Apache Airflow, Apache Nifi, ...)
-- just use python, no other skills required (no Kubeflow component yaml, maven, Java, ...)
+- Set of re-usable coarse-grained components (just a bunch of code)
+- Think of tasks, not functions (e.g. read from database, transform data, train model, deploy model, ...)
+- Write once, runs everywhere (export to Kubeflow, Apache Airflow, Apache Nifi, ...)
+- Just use python, no other skills required (no Kubeflow component yaml, maven, Java, ...)
 - 1st class citizen in JupyterLab and the Elyra Pipeline Editor (creating a low code / no code IDE for data science) 
-- upstream repository to IBM Watson Studio Pipelines contributed components in IBM Cloud Pak for Data
+- Upstream repository to IBM Watson Studio Pipelines contributed components in IBM Cloud Pak for Data
 
 
 This is a component library for artificial intelligence, machine learning,
